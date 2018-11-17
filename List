@@ -1,0 +1,13 @@
+<!DOCTYPE html> 
+<html> <body> 
+<h1>AmethystNoel Viewer Command List</h1> 
+<p>!8ball: ask the 8ball any yes or no question<p> 
+<p>!accountage [user] : lists the current age of [user]’s account<p> 
+<p>!age : lists my current age<p> 
+<p>!commands: brings you here<p> 
+<p>!followage: tells you how long a user has been following my channel<p> 
+<p>!google : Here, let me google that for you<p> <p>!kd : lists my current fortnite kill to death ratio<p> 
+<p>!solo : lists my current fortnite solo stats<p> <p>!squads : lists my current fortnite squad stats<p> 
+<p>!uptime : lists current channel uptime<p> 
+<p>!wins : lists my current number of fortnite wins</p> 
+</body> </html>
